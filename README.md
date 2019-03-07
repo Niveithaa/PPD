@@ -1,4 +1,7 @@
 # PPD
 JavaScript group project for PPD using pixi
 
-drop all the "mypixi" folder into the publichtml folder on the (F:) drive
+how to install:
+
+
+Create a folder inside publichtml folder on the (F:) drive and drop everything inside it.
